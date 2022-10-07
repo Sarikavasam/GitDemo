@@ -34,6 +34,7 @@ DevTools devtools=driver.getDevTools();
 System.out.println(startTime-endTime);
 System.out.println("hello");
 System.out.println("Hiiiiii");
+System.out.println("How are you");
 		driver.close();
 	}
 
