@@ -31,6 +31,7 @@ DevTools devtools=driver.getDevTools();
 		//System.out.println(driver.findElement(By.cssSelector("p")).getText());
 		long endTime=System.currentTimeMillis();
 		System.out.println(startTime-endTime);
+System.out.println(startTime-endTime);
 		driver.close();
 	}
 

@@ -23,6 +23,8 @@ public class SauseLbs {
 
 		System.out.println(driver.getTitle());
 System.out.println(driver.getTitle());
+System.out.println(driver.getTitle());
+System.out.println(driver.getTitle());
 	}
 	
 
