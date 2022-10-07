@@ -32,6 +32,7 @@ DevTools devtools=driver.getDevTools();
 		long endTime=System.currentTimeMillis();
 		System.out.println(startTime-endTime);
 System.out.println(startTime-endTime);
+System.out.println("hello");
 		driver.close();
 	}
 
